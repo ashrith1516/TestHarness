@@ -1,0 +1,9 @@
+﻿  Logger.cpp
+  Comm.cpp
+c:\personal\books and notes\graduate\ood\project-4\ashrith project 4\cppcommwithfilexfer\msgpassingcomm\comm.cpp(159): warning C4244: 'argument': conversion from 'std::streamsize' to 'const unsigned int', possible loss of data
+c:\personal\books and notes\graduate\ood\project-4\ashrith project 4\cppcommwithfilexfer\msgpassingcomm\comm.cpp(202): warning C4244: 'argument': conversion from 'std::streamsize' to 'size_t', possible loss of data
+c:\personal\books and notes\graduate\ood\project-4\ashrith project 4\cppcommwithfilexfer\msgpassingcomm\comm.cpp(205): warning C4244: 'argument': conversion from 'std::streamsize' to 'size_t', possible loss of data
+c:\personal\books and notes\graduate\ood\project-4\ashrith project 4\cppcommwithfilexfer\msgpassingcomm\comm.cpp(263): warning C4244: 'argument': conversion from 'std::streamsize' to 'const unsigned int', possible loss of data
+c:\personal\books and notes\graduate\ood\project-4\ashrith project 4\cppcommwithfilexfer\msgpassingcomm\comm.cpp(311): warning C4244: 'argument': conversion from 'std::streamsize' to 'size_t', possible loss of data
+  Generating Code...
+  MsgPassingComm.vcxproj -> C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\Debug\MsgPassingComm.lib

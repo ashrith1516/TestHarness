@@ -1,0 +1,57 @@
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\PrototypeGui-OOD-Pr4.exe.config
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\PrototypeGui-OOD-Pr4.exe
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\PrototypeGui-OOD-Pr4.pdb
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.csprojAssemblyReference.cache
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\MainWindow.g.cs
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\SelectionWindow.g.cs
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\App.g.cs
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4_MarkupCompile.cache
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4_MarkupCompile.lref
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\MainWindow.baml
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\SelectionWindow.baml
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.g.resources
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui_OOD_Pr4.Properties.Resources.resources
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.csproj.GenerateResource.cache
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.csproj.CoreCompileInputs.cache
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.exe
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.pdb
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\PrototypeGui-OOD-Pr4.exe.config
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\PrototypeGui-OOD-Pr4.exe
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\PrototypeGui-OOD-Pr4.pdb
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.csprojAssemblyReference.cache
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\MainWindow.g.cs
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\SelectionWindow.g.cs
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\App.g.cs
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4_MarkupCompile.cache
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4_MarkupCompile.lref
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\MainWindow.baml
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\SelectionWindow.baml
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.g.resources
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui_OOD_Pr4.Properties.Resources.resources
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.csproj.GenerateResource.cache
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.csproj.CoreCompileInputs.cache
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.exe
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.pdb
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\Translater.dll
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\Translater.pdb
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 3\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.csproj.CopyComplete
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\PrototypeGui-OOD-Pr4.exe.config
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\PrototypeGui-OOD-Pr4.exe
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\PrototypeGui-OOD-Pr4.pdb
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\Translater.dll
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\bin\Debug\Translater.pdb
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.csprojAssemblyReference.cache
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\MainWindow.g.cs
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\SelectionWindow.g.cs
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\App.g.cs
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4_MarkupCompile.cache
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4_MarkupCompile.lref
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\MainWindow.baml
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\SelectionWindow.baml
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.g.resources
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui_OOD_Pr4.Properties.Resources.resources
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.csproj.GenerateResource.cache
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.csproj.CoreCompileInputs.cache
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.csproj.CopyComplete
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.exe
+C:\Personal\Books and Notes\Graduate\OOD\Project-4\Ashrith Project 4\PrototypeGui-OOD-Pr4\PrototypeGui-OOD-Pr4\obj\Debug\PrototypeGui-OOD-Pr4.pdb
